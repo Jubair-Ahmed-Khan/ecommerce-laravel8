@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 3c3181823085e8fba913b56c85a331a7661ec97d Tawhid Amy <tawhid.w3@gmail.com> 1683774032 +0600	commit (initial): authentication, admin dashboard, category, subcategory, childcategory added
-3c3181823085e8fba913b56c85a331a7661ec97d 0000000000000000000000000000000000000000 Tawhid Amy <tawhid.w3@gmail.com> 1683774054 +0600	Branch: renamed refs/heads/master to refs/heads/main
-0000000000000000000000000000000000000000 3c3181823085e8fba913b56c85a331a7661ec97d Tawhid Amy <tawhid.w3@gmail.com> 1683774054 +0600	Branch: renamed refs/heads/master to refs/heads/main
-3c3181823085e8fba913b56c85a331a7661ec97d 075e825256ba93e3978c72c796b444441f1820de Jubair Ahmed Khan <jubair.mbstu@gmail.com> 1683774417 +0600	commit: test
